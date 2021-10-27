@@ -2,7 +2,7 @@
 This respository contains code and data used to estimate habitat constraint metrics for walleye pollock in the Bering Sea and for simulated data.  Code for extimating habitat constraints for the remaining 9 species examined in Ciannelli et al. 2021 follow the pollock template, and is avilable upon request.
 This repository also contains code to generate spatially correlated random fields and to estimate habitat constraints on these fields; and data to estimate relationshps between habitat constraint and ontogenetic index acorss all 10 case studies examined in Ciannelli et al. 2021.
 
-**Code**\n
+**Code**
 BS_Pollock_Constraint4_online.R: estimate habitat constraints on Bering sea pollock data
 distance.function.R: fuction to calculate great circle distance, used in pollock script
 Habitat_Constraint_4_online.Rmd: estimate relationships between habitat constraint and species ontogenetic stage across all 20 case studies examined
